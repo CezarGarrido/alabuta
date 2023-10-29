@@ -1,5 +1,5 @@
-baseurl = "https://username.github.io"
-DefaultContentLanguage = "en"
+baseurl = "https://alabuta.netlify.app"
+DefaultContentLanguage = "pt-br"
 title = "Beautiful Hugo"
 theme = "beautifulhugo"
 pygmentsStyle = "trac"
