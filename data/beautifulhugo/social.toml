@@ -1,0 +1,5 @@
+[[social_icons]]
+id = "email"
+url = "mailto:%s"
+title = "Email me"
+icon = "fas fa-envelope"
