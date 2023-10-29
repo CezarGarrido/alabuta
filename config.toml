@@ -1,5 +1,5 @@
 baseurl = "https://alabuta.netlify.app"
-DefaultContentLanguage = "pt-br"
+DefaultContentLanguage = "br"
 title = "A Labuta"
 theme = "beautifulhugo"
 pygmentsStyle = "trac"
