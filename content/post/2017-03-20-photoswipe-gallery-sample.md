@@ -1,5 +1,6 @@
 ---
 title: Photoswipe Gallery Sample
+author: Editorial
 subtitle: Making a Gallery
 date: 2017-03-20
 tags: ["example", "photoswipe"]
