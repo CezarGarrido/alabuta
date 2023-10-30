@@ -13,7 +13,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "Proletários, uni-vos na Labuta Revolucionária!"
+  #subtitle = "A primeira condição para modificar a realidade consiste em conhecê-la."
   mainSections = ["post","posts"]
   logo = "img/alabuta-logo.png" # Expecting square dimensions
   favicon = "img/favicon.ico"

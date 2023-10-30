@@ -4,11 +4,20 @@ author: Editorial
 authors:
     - Rui Mauro Marini
 subtitle: A integração ao mercado mundial
-date: 2017-03-20
-tags: ["america latina"]
+date: 2023-10-28
+tags:
+    - América Latina
+    - Capitalismo
+    - Colonialismo
+    - Metais Preciosos
+    - Fluxo de Mercadorias
+    - Revolução Industrial
+    - Dependência Econômica
 category: categories
 image: "/img/devorr.png"
 ---
+
+> Rui Mauro Marini - 1973
 
 Forjada no calor da expansão comercial promovida no século 16 pelo capitalismo nascente, a América Latina se desenvolve em estreita consonância com a dinâmica do capitalismo internacional. Colônia produtora de metais preciosos e gêneros exóticos, a América Latina contribuiu em um primeiro momento com o aumento do fluxo de mercadorias e a expansão dos meios de pagamento que, ao mesmo tempo em que permitiam o desenvolvimento do capital comercial e bancário na Europa, sustentaram o sistema manufatureiro europeu e propiciaram o caminho para a criação da grande indústria. A revolução industrial, que dará início a ela, corresponde na América Latina à independência política que, conquistada nas primeiras décadas do século 19, fará surgir, com base na estrutura demográfica e administrativa construída durante a Colônia, um conjunto de países que passam a girar em torno da Inglaterra. Os fluxos de mercadorias e, posteriormente, de capitais têm nesta seu ponto de entroncamento: ignorando uns aos outros, os novos países se articularão diretamente com a metrópole inglesa e, em função dos requerimentos desta, começarão a produzir e a exportar bens primários, em troca de manufaturas de consumo e — quando a exportação supera as importações — de dívidas.(3)
 
@@ -20,10 +29,12 @@ A criação da grande indústria moderna seria fortemente obstaculizada se não 
 
 O que importa considerar aqui é que as funções que cumpre a América Latina na economia capitalista mundial transcendem a mera resposta aos requisitos físicos induzidos pela acumulação nos países industriais. Mais além de facilitar o crescimento quantitativo destes, a participação da América Latina no mercado mundial contribuirá para que o eixo da acumulação na economia industrial se desloque da produção de mais-valia absoluta para a de mais-valia relativa, ou seja, que a acumulação passe a depender mais do aumento da capacidade produtiva do trabalho do que simplesmente da exploração do trabalhador. No entanto, o desenvolvimento da produção latino-americana, que permite à região coadjuvar com essa mudança qualitativa nos países centrais, dar-se-á fundamentalmente com base em uma maior exploração do trabalhador. É esse caráter contraditório da dependência latino-americana, que determina as relações de produção no conjunto do sistema capitalista, o que deve reter nossa atenção.
 
+**Fonte:** [marxists.com](https://www.marxists.org/portugues/marini/1973/mes/dialetica.htm)
+
 ---
 
 
-### Notas de rodapé:
+> Notas de rodapé:
 
 {{< summary >}}
 
