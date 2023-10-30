@@ -2,3 +2,8 @@
     text-align: center;
     font-size: 80px;
 }
+
+.blog-post > p {
+    text-align: justify;
+    line-height: 140%;
+  }
