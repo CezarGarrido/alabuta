@@ -1,0 +1,12 @@
+<style>
+    .summary-note {
+        font-size: 16px;
+    }
+  .summary-note > p {
+    margin-top: 2px !important;
+  }
+</style>
+
+<div class="summary-note">
+    {{ .Inner | markdownify }}
+</div>
