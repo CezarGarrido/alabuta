@@ -1,0 +1,14 @@
+[
+  {{- range $index, $page := .Site.RegularPages -}}
+  {{- if eq $page.Type "post" -}}
+    {{- if gt $index 0 -}} , {{- end -}}
+
+    {{- $entry := dict "uri" $page.RelPermalink "title" $page.Title -}}
+    {{- $entry = merge $entry (dict "content" ($page.Plain | htmlUnescape)) -}}
+    {{- $entry = merge $entry (dict "subtitle" $page.Params.Subtitle) -}}
+    {{- $entry = merge $entry (dict "tags" $page.Params.Tags) -}}
+    {{- $entry = merge $entry (dict "authors" $page.Params.Authors) -}}
+    {{- $entry | jsonify -}}
+    {{- end -}}
+  {{- end -}}
+]
