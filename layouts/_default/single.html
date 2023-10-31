@@ -105,6 +105,7 @@
   </div>
 </div>
 
+{{ if eq .Type "post"}}
 <script type="text/javascript">
   document.addEventListener("DOMContentLoaded", (event) => {
     const pageviewsCount = document.getElementById('count-value');
@@ -172,4 +173,5 @@
   });
 </script>
 
+{{ end }}
 {{ end }}

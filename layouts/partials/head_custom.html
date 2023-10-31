@@ -18,39 +18,54 @@ Or you can delete these file if you don't need it.
 <!-- or you could include some additional css libraries:
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.19.1/vis.css" integrity="sha256-I1UoFd33KHIydu88R9owFaQWzwkiZV4hXXug5aYaM28=" crossorigin="anonymous" />
 -->
+
 <link rel="stylesheet" href="/css/styles.css">
 <script src="/js/lunr.min.js"></script>
-<script src="/js/search.js"></script>
+<script src='/js/nprogress.js'></script>
+<link rel='stylesheet' href='/css/nprogress.css' />
 
+<style>
+  #container {
+    z-index: 10000;
+    top: 0;
+    left: 0;
+    position: relative;
+  }
+</style>
+
+<div id="container"></div>
 
 <script>
-
   window.addEventListener('load', function () {
+    NProgress.configure({ easing: 'ease', speed: 1000, showSpinner: false });
+
+    NProgress.start();
+    NProgress.done();
     initSearchIndex();
   });
 
 
   function initSearchIndex() {
-  try {
-    fetch("/index.json")
-      .then(function(response) {
-        return response.json();
-      })
-      .then(function(pagesIndex) {
-        let searchIndex = lunr(function () {
-          this.field("authors");
-          this.field("tags");
-          this.field("title");
-          this.field("content");
-          this.ref("uri");
-          pagesIndex.forEach((page) => this.add(page));
-          console.log(pagesIndex);
+    try {
+      fetch("/index.json")
+        .then(function (response) {
+          return response.json();
+        })
+        .then(function (pagesIndex) {
+          let searchIndex = lunr(function () {
+            this.field("authors");
+            this.field("tags");
+            this.field("title");
+            this.field("content");
+            this.ref("uri");
+            pagesIndex.forEach((page) => this.add(page));
+            console.log(pagesIndex);
+          });
         });
-      });
-  } catch (e) {
-    console.log(e);
+    } catch (e) {
+      console.log(e);
+    }
   }
-}
 
 
 </script>
