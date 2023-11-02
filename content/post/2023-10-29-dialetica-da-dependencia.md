@@ -2,17 +2,17 @@
 title: Dialética da Dependência
 author: Editorial
 authors:
-    - Rui Mauro Marini
+  - Rui Mauro Marini
 subtitle: A integração ao mercado mundial
-date: 2023-10-28
+date: 2023-10-29
 tags:
-    - América Latina
-    - Capitalismo
-    - Colonialismo
-    - Metais Preciosos
-    - Fluxo de Mercadorias
-    - Revolução Industrial
-    - Dependência Econômica
+  - América Latina
+  - Capitalismo
+  - Colonialismo
+  - Metais Preciosos
+  - Fluxo de Mercadorias
+  - Revolução Industrial
+  - Dependência Econômica
 category: categories
 image: "/img/devorr.png"
 ---
@@ -29,26 +29,23 @@ A criação da grande indústria moderna seria fortemente obstaculizada se não 
 
 O que importa considerar aqui é que as funções que cumpre a América Latina na economia capitalista mundial transcendem a mera resposta aos requisitos físicos induzidos pela acumulação nos países industriais. Mais além de facilitar o crescimento quantitativo destes, a participação da América Latina no mercado mundial contribuirá para que o eixo da acumulação na economia industrial se desloque da produção de mais-valia absoluta para a de mais-valia relativa, ou seja, que a acumulação passe a depender mais do aumento da capacidade produtiva do trabalho do que simplesmente da exploração do trabalhador. No entanto, o desenvolvimento da produção latino-americana, que permite à região coadjuvar com essa mudança qualitativa nos países centrais, dar-se-á fundamentalmente com base em uma maior exploração do trabalhador. É esse caráter contraditório da dependência latino-americana, que determina as relações de produção no conjunto do sistema capitalista, o que deve reter nossa atenção.
 
-**Fonte:** [marxists.com](https://www.marxists.org/portugues/marini/1973/mes/dialetica.htm) 
+**Fonte:** [marxists.com](https://www.marxists.org/portugues/marini/1973/mes/dialetica.htm)
 
-***
+[^3]:
+    "Até a metade do século 19, as exportações latino-americanas se encontram estagnadas e a balança comercial latino-americana é deficitária; os empréstimos estrangeiros se destinam à sustentação da capacidade de importação. Ao aumentar as exportações, e, sobretudo a partir do momento em que o comércio exterior começa a gerar saldos positivos, o papel da dívida externa passa a ser o de transferir para a metrópole parte do excedente obtido na América Latina. O caso do Brasil é revelador: a partir da década de 1860, quando os saldos da balança comercial se tornam cada vez mais importantes, o serviço da dívida externa aumenta: dos 50% que representava sobre esse saldo nos anos de 1960, se eleva para 99% na década seguinte". (Nelson Werneck Sodré, Formação Histórica do Brasil. Ed. Brasiliense, São Paulo, 1964). "Entre 1902-1913, enquanto o valor das exportações aumenta em 79,6%, a dívida externa brasileira cresce em 144,6%, e representa, em 1913, 60% do gasto público total". (J. A. Barboza-Carneiro, Situation économique et financière du Brésil: memorandum presente à la Conférence Financière Internationale. Bruxelas, setembro-outubro de 1920).
 
-#### Referências:
+[^4]: Veja-se, por exemplo, seu artigo "Quién es el ejemplo inmediato", Pensamiento Crítico n° 13, La Habana, 1968.
 
-[^3]: "Até a metade do século 19, as exportações latino-americanas se encontram estagnadas e a balança comercial latino-americana é deficitária; os empréstimos estrangeiros se destinam à sustentação da capacidade de importação. Ao aumentar as exportações, e, sobretudo a partir do momento em que o comércio exterior começa a gerar saldos positivos, o papel da dívida externa passa a ser o de transferir para a metrópole parte do excedente obtido na América Latina. O caso do Brasil é revelador: a partir da década de 1860, quando os saldos da balança comercial se tornam cada vez mais importantes, o serviço da dívida externa aumenta: dos 50% que representava sobre esse saldo nos anos de 1960, se eleva para 99% na década seguinte". (Nelson Werneck Sodré, Formação Histórica do Brasil. Ed. Brasiliense, São Paulo, 1964). "Entre 1902-1913, enquanto o valor das exportações aumenta em 79,6%, a dívida externa brasileira cresce em 144,6%, e representa, em 1913, 60% do gasto público total". (J. A. Barboza-Carneiro, Situation économique et financière du Brésil: memorandum presente à la Conférence Financière Internationale. Bruxelas, setembro-outubro de 1920). 
+[^5]: Georges Canguilhem, Lo normal e lo patológico. Ed. Siglo XI Argentina, Buenos Aires, 1971, p. 60. Sobre os conceitos de homogeneidade e continuidade, veja-se o capítulo III dessa obra.
 
-[^4]: Veja-se, por exemplo, seu artigo "Quién es el ejemplo inmediato", Pensamiento Crítico n° 13, La Habana, 1968. 
+[^6]: Veja-se Celso Furtado, Formación Econômica del Brasil. Ed. Fondo de Cultura Ecomomica, México, 1962, pp. 90-91.
 
-[^5]: Georges Canguilhem, Lo normal e lo patológico. Ed. Siglo XI Argentina, Buenos Aires, 1971, p. 60. Sobre os conceitos de homogeneidade e continuidade, veja-se o capítulo III dessa obra. 
+[^7]: Em um trabalho que minimiza enormemente a importância do mercado mundial para o desenvolvimento do capitalismo, Paul Bairoch observa que só "a partir de 1840-1850 começa a verdadeira expansão do comércio exterior [da Inglaterra]; desde 1860, as exportações representam 14% da renda nacional, e é apenas o começo de uma evolução nacional que alcançará seu máximo nos anos que precedem a guerra de 1914-1918, quando as exportações alcançaram ao redor de 40% da renda nacional. O começo dessa expansão marca uma modificação da estrutura das atividades inglesas, como vimos no capítulo da agricultura: a partir de 18401850, a Inglaterra começará a depender cada vez mais do estrangeiro para sua subsistência": Revolución industrialy subdesarrollo, Ed. Siglo XXI, México, 1967, p. 285. Quando se trata da inserção da América Latina na economia capitalista mundial, é à Inglaterra que se deve referir, mesmo naqueles casos (como o da exportação chilena de cereais para os Estados Unidos) em que a relação não é direta. É por isso que as estatísticas mencionadas explicam a constatação de um historiador, no sentido de que "em quase todas as partes [da América Latina], os níveis de comércio internacional de 1850 não excedem em muito os de 1825" (Túlio Halperin Donghi, Historia contemporânea de América Latina. Alianza Editorial, Madrid, 1970, p.158).
 
-[^6]: Veja-se Celso Furtado, Formación Econômica del Brasil. Ed. Fondo de Cultura Ecomomica, México, 1962, pp. 90-91. 
+[^8]: "A grande indústria criou o mercado mundial já preparado pela descoberta da América." Manifiesto del Partido Comunista, em Marx e Engels, Obras escogidas, I, p. 21. Cf. também El Capital, t. I, cap. XXIII, 3, p. 536, nota, edição de Fondo de Cultura Econômica. Advertimos aqui que temos procurado referir as citações de O Capital a esta edição, para facilitar ao leitor sua localização; entretanto, por inconvenientes derivados seja da tradução, seja das edições em que ela se baseia, preferimos, em certos casos, recorrer ao texto incluído nas obras de Marx que se editam sob a responsabilidade de Maxim Ilien Rubel (Paris, NRF, Bibliothèque de la Plêiade); em tais casos, damos também a referência que corresponde à edição da Fondo de Cultura Econômica.
 
-[^7]: Em um trabalho que minimiza enormemente a importância do mercado mundial para o desenvolvimento do capitalismo, Paul Bairoch observa que só "a partir de 1840-1850 começa a verdadeira expansão do comércio exterior [da Inglaterra]; desde 1860, as exportações representam 14% da renda nacional, e é apenas o começo de uma evolução nacional que alcançará seu máximo nos anos que precedem a guerra de 1914-1918, quando as exportações alcançaram ao redor de 40% da renda nacional. O começo dessa expansão marca uma modificação da estrutura das atividades inglesas, como vimos no capítulo da agricultura: a partir de 18401850, a Inglaterra começará a depender cada vez mais do estrangeiro para sua subsistência": Revolución industrialy subdesarrollo, Ed. Siglo XXI, México, 1967, p. 285. Quando se trata da inserção da América Latina na economia capitalista mundial, é à Inglaterra que se deve referir, mesmo naqueles casos (como o da exportação chilena de cereais para os Estados Unidos) em que a relação não é direta. É por isso que as estatísticas mencionadas explicam a constatação de um historiador, no sentido de que "em quase todas as partes [da América Latina], os níveis de comércio internacional de 1850 não excedem em muito os de 1825" (Túlio Halperin Donghi, Historia contemporânea de América Latina. Alianza Editorial, Madrid, 1970, p.158). 
+[^9]: "[...] Uma produtividade do trabalho agrícola que supere as necessidades individuais do operário constitui a base de toda sociedade e, sobretudo, a base da produção capitalista, que separa uma parte cada vez maior da sociedade da produção de meios diretos de subsistência e a converte, como disse Steuart, em free heads, em homens disponíveis para a exploração de outras esferas." El Capital, III, XLVII, p, 728.
 
-[^8]: "A grande indústria criou o mercado mundial já preparado pela descoberta da América." Manifiesto del Partido Comunista, em Marx e Engels, Obras escogidas, I, p. 21. Cf. também El Capital, t. I, cap. XXIII, 3, p. 536, nota, edição de Fondo de Cultura Econômica. Advertimos aqui que temos procurado referir as citações de O Capital a esta edição, para facilitar ao leitor sua localização; entretanto, por inconvenientes derivados seja da tradução, seja das edições em que ela se baseia, preferimos, em certos casos, recorrer ao texto incluído nas obras de Marx que se editam sob a responsabilidade de Maxim Ilien Rubel (Paris, NRF, Bibliothèque de la Plêiade); em tais casos, damos também a referência que corresponde à edição da Fondo de Cultura Econômica. 
-
-[^9]: "[...] Uma produtividade do trabalho agrícola que supere as necessidades individuais do operário constitui a base de toda sociedade e, sobretudo, a base da produção capitalista, que separa uma parte cada vez maior da sociedade da produção de meios diretos de subsistência e a converte, como disse Steuart, em free heads, em homens disponíveis para a exploração de outras esferas." El Capital, III, XLVII, p, 728. 
-
-[^10]: É interessante observar que, a partir de um certo momento, as mesmas nações industriais exportarão seus capitais para a América Latina, para aplicá-los na produção de matérias primas e alimentos para a exportação. Isso é sobretudo visível quando a presença dos Estados Unidos na América Latina se acentua e começa a deslocar a Inglaterra. Se observamos a composição funcional do capital estrangeiro existente na região, nas primeiras décadas deste século 20, veremos que a origem britânica se concentra prioritariamente nos investimentos de carteira, principalmente títulos públicos e ferroviários, os quais representavam normalmente três quartas partes do total; enquanto que os Estados Unidos destinava a esse tipo de operações a terceira parte de seu investimento, e privilegiavam a aplicação de fundos na mineração, no petróleo e na agricultura. Veja-se Paul R. Olson e C. Addison Hickman, Economia internacional latinoamericana, Ed. Fondo de Cultura Econômica, México, 1945, cap. V. 
+[^10]: É interessante observar que, a partir de um certo momento, as mesmas nações industriais exportarão seus capitais para a América Latina, para aplicá-los na produção de matérias primas e alimentos para a exportação. Isso é sobretudo visível quando a presença dos Estados Unidos na América Latina se acentua e começa a deslocar a Inglaterra. Se observamos a composição funcional do capital estrangeiro existente na região, nas primeiras décadas deste século 20, veremos que a origem britânica se concentra prioritariamente nos investimentos de carteira, principalmente títulos públicos e ferroviários, os quais representavam normalmente três quartas partes do total; enquanto que os Estados Unidos destinava a esse tipo de operações a terceira parte de seu investimento, e privilegiavam a aplicação de fundos na mineração, no petróleo e na agricultura. Veja-se Paul R. Olson e C. Addison Hickman, Economia internacional latinoamericana, Ed. Fondo de Cultura Econômica, México, 1945, cap. V.
 
 [^11]: "[...] ao crescer o capital variavel, tem de crescer também necessariamente o capital constante, e ao aumentar o volume das condições comuns de produção, os edifícios, os fornos etc, têm também de aumentar, e muito mais rapidamente que a quantidade de operários, as matérias-primas." El Capital, I, XII, p. 293. Além disso, qualquer que seja a variação do capital variável e do elemento fixo do capital constante, o gasto de matérias-primas é sempre maior, quando aumenta o grau de exploração ou a produtividade do trabalho. Cf. El Capital, I, XXII, inciso 4.
