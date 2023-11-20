@@ -7,14 +7,11 @@ subtitle: A integração ao mercado mundial
 date: 2023-10-29
 tags:
   - América Latina
-  - Capitalismo
   - Colonialismo
-  - Metais Preciosos
-  - Fluxo de Mercadorias
-  - Revolução Industrial
-  - Dependência Econômica
+  - Imperialismo
+  - Dependência
 category: categories
-image: "/img/devorr.png"
+image: ""
 ---
 
 > Rui Mauro Marini - 1973.
