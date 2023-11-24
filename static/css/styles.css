@@ -1,9 +1,9 @@
-.authors-heading > h1{
+.authors-heading>h1 {
     text-align: center;
     font-size: 80px;
 }
 
-.blog-post > p {
+.blog-post>p {
     text-align: justify;
     line-height: 140%;
-  }
+}
